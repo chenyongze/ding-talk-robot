@@ -3,6 +3,7 @@
     "description": "钉钉机器人php库",
     "type": "library",
     "license": "MIT",
+    "version": "1.0.0",
     "authors": [
         {
             "name": "chenyongze",
@@ -15,7 +16,7 @@
     },
     "autoload":{
       "psr-4":{
-        "Atishoo\\":"src"
+        "Yongze\\":"src"
       }
     }
 }
