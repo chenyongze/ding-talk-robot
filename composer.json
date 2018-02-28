@@ -1,0 +1,21 @@
+{
+    "name": "chenyongze/DingTalk-Robot",
+    "description": "钉钉机器人php库",
+    "type": "library",
+    "license": "MIT",
+    "authors": [
+        {
+            "name": "chenyongze",
+            "email": "sapphire.php@gmail.com"
+        }
+    ],
+    "minimum-stability": "dev",
+    "require": {
+        "php": ">=5.5"
+    },
+    "autoload":{
+      "psr-4":{
+        "Atishoo\\":"src"
+      }
+    }
+}
