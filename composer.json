@@ -1,22 +1,19 @@
 {
-    "name": "chenyongze/ding-talk-robot",
-    "description": "钉钉机器人php库",
-    "type": "library",
-    "license": "MIT",
-    "version": "1.1.0",
-    "authors": [
-        {
-            "name": "chenyongze",
-            "email": "sapphire.php@gmail.com"
-        }
-    ],
-    "minimum-stability": "dev",
-    "require": {
-        "php": ">=5.5"
-    },
-    "autoload":{
-      "psr-4":{
-        "Yongze\\":"src"
-      }
+  "name": "chenyongze/ding-talk-robot",
+  "description": "钉钉机器人php库",
+  "type": "library",
+  "license": "MIT",
+  "version": "1.1.0",
+  "authors": [{
+    "name": "chenyongze",
+    "email": "sapphire.php@gmail.com"
+  }],
+  "require": {
+    "php": ">=7.0"
+  },
+  "autoload": {
+    "psr-4": {
+      "Yongze\\": "src"
     }
+  }
 }
