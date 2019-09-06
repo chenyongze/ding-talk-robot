@@ -1,7 +1,7 @@
 ###### 钉钉机器人 ---- 如何使用
 
 
-> composer require chenyongze/ding-talk-robot:dev-master
+> composer require chenyongze/ding-talk-robot:2.0.1
 
 1.引入命名空间
 use Yongze\DingtalkRobot;
